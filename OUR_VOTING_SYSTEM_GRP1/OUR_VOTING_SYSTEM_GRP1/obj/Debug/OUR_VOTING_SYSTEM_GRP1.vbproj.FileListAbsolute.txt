@@ -1,0 +1,16 @@
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\OUR_VOTING_SYSTEM_GRP1.exe.config
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\OUR_VOTING_SYSTEM_GRP1.exe
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\OUR_VOTING_SYSTEM_GRP1.pdb
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\OUR_VOTING_SYSTEM_GRP1.xml
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.Form1.resources
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.Resources.resources
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.vbproj.GenerateResource.Cache
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.exe
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.xml
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.pdb
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.vbprojResolveAssemblyReference.cache
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\Guna.UI2.dll
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\bin\Debug\Guna.UI.dll
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.student.resources
+E:\2ndyrcollege\2ndsem\OOP\vsfiles\OUR_VOTING_SYSTEM_GRP1\OUR_VOTING_SYSTEM_GRP1\obj\Debug\OUR_VOTING_SYSTEM_GRP1.adminpage.resources
